@@ -1,3 +1,4 @@
 new changes
 new brach
 new commit
+my text new
